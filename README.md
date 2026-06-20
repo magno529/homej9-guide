@@ -1,2 +1,14 @@
 # homej9-guide
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
